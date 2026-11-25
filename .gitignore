@@ -1,0 +1,20 @@
+# Build
+target/
+*.class
+*.jar
+
+# Құпия деректер (репозиторийге түспеуі керек)
+.env
+*.env
+*.key
+*.pem
+*.vault
+secrets/
+vault/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.DS_Store
+out/
